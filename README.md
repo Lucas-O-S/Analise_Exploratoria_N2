@@ -5,14 +5,14 @@
  Prazo de entrega 10/03/2025 at´e `as 23:55 com desconto de 10 pontos por dia de atraso. Seguem os
  crit´erios a serem avaliados:
  ## Questão 1 .................................................................... [40 pontos]
- Descri¸c˜ao da base de dados.
- - (a) (20 pontos) Descri¸c˜ao geral do dataset.
+ Descrição da base de dados.
+ - (a) (20 pontos) Descrição geral do dataset.
  - (b) (10 pontos) O que significa cada linha de cada arquivo?
  - (c) (10 pontos) Quais s˜ao os atributos (colunas) e seus tipos?
  ## Questão 2 .................................................................... [50 pontos]
- Prepara¸c˜ao da base de dados.
+ Preparação da base de dados.
  - (a) (25 pontos) Identificou algum problema no dataset (por exemplo: nomes ruins para as colunas,
- falta de organiza¸ c˜ao, outliers, dados faltantes, convers˜ao de tipos de dados, etc)?
- - (b) (25 pontos) Aplicou alguma corre¸ c˜ao para o(s) problema(s) identificado(s) no item anterior?
+ falta de organização, outliers, dados faltantes, conversão de tipos de dados, etc)?
+ - (b) (25 pontos) Aplicou alguma correção para o(s) problema(s) identificado(s) no item anterior?
  ## Questão 3 .................................................................... [10 pontos]
- - Compartilhe o link do seu reposit´orio Git com a resolu¸ c˜ao da sua atividade
+ - Compartilhe o link do seu reposit´orio Git com a resolução da sua atividade
