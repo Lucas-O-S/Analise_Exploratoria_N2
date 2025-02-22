@@ -1,9 +1,9 @@
 # Atividade N1 1◦ Bimestre
- Nesta Atividade Avaliativa para N1 do 1◦ Bimestre, a entrega ser´a individual. Cada estudante
- dever´a realizar o in´ ıcio da an´alise explorat´oria para o conjunto de dados Movie Lens (small):
+ Nesta Atividade Avaliativa para N1 do 1◦ Bimestre, a entrega será individual. Cada estudante
+ dever´a realizar o início da análise explorat´oria para o conjunto de dados Movie Lens (small):
  https://grouplens.org/datasets/movielens/.
- Prazo de entrega 10/03/2025 at´e `as 23:55 com desconto de 10 pontos por dia de atraso. Seguem os
- crit´erios a serem avaliados:
+ Prazo de entrega 10/03/2025 até `as 23:55 com desconto de 10 pontos por dia de atraso. Seguem os
+ critérios a serem avaliados:
  ## Questão 1 .................................................................... [40 pontos]
  Descrição da base de dados.
  - (a) (20 pontos) Descrição geral do dataset.
